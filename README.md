@@ -74,3 +74,19 @@ PyCitySchools with Pandas
 4. In addition to the overall passing rate, the campus math and reading averages and passing percentages all saw shifts.  
 
 The major changes will be seen at the lower views of the disaggregated data with minor impact to the larger data views.
+
+## Conclusion
+
+After removing the ninth-grade math and reading scores from Thomas High School, it affacts summary tables by slightly reducing the average scores and enomous decreasing for the passing percentage rate, including both math and reading passing percentage as well as overall passing percentage.
+
+### Tables
+
+There are 20 Analysis tables are in the picture folder. Attached are two examples. 
+
+1. The *Thomas_9th_info* is information about descriptive statistic before removing the ninth-grade math and reading scores from Thomas High School.
+   ![image](https://github.com/Prachi-Shah1002/pandas-challenge/assets/135665923/b3a24ceb-244a-4f50-9c05-dbd74cb003b2)
+-------------------------------------------------------------------------------------------------------------------------------
+2. The *final_compare_summary* is the two summary tables groupby each school, comparing between before and after removing incorrect data.
+![image](https://github.com/Prachi-Shah1002/pandas-challenge/assets/135665923/bf218fed-a30c-4340-9233-e031b2e8e8ad)
+
+   
